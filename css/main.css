@@ -1,0 +1,60 @@
+.opensans { font-family: 'Open Sans Condensed', sans-serif; }
+.ptserif { font-family: 'PT Serif', serif; }
+.lobster { font-family: 'Lobster', cursive; }
+
+header, header h2, header h5 { color: #3F0E0A; }
+
+header
+{
+    padding: 20px;
+}
+
+header i
+{
+	font-size: 45pt!important;
+    margin-top: 8px;
+    position: absolute;
+}
+
+header h2
+{
+	left: 80px;
+    position: relative;
+}
+
+header h5
+{
+	left: 125px;
+    position: absolute;
+    top: 61px;
+}
+
+.search_form
+{
+	background-color: #F4F4F6;
+	padding-top: 1rem;
+}
+
+button, .button
+{
+	background-color: #3D5D69;
+	border-color: none;
+}
+
+button:hover, button:focus, .button:hover, .button:focus
+{
+	background-color: #373B3F;
+}
+
+.search_form input
+{
+	border: none;
+}
+
+table
+{
+	width: 100%;
+}
+
+
+/* http://www.colourlovers.com/palette/3924185/scala */
